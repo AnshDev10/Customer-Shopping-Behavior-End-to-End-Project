@@ -1,9 +1,10 @@
 # 🛍️ Customer Shopping Behavior Analysis  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)  
-![PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)  
-![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)  
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+</p>
 
 
 ## 📌 Project Description
