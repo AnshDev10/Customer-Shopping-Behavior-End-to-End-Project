@@ -136,6 +136,8 @@ Performed using **Pandas & NumPy**:
 
 An interactive dashboard built to visualize insights.
 
+<img width="453" height="274" alt="Image" src="https://github.com/user-attachments/assets/855e9d05-9d11-4871-9380-c2a2d467f883" />
+
 ### 🔹 Key Metrics
 - **3.9K Customers**
 - **$59.76 Avg Purchase**
